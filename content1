@@ -1,0 +1,69 @@
+<html>
+  <head>
+    <style>
+   body {
+    background-image: url("http://pre00.deviantart.net/953c/th/pre/f/2014/036/a/c/background_gaming__website__by_fnkk-d758mbq.png");
+}
+      
+   .nav ul {list-style:none;margin:0;padding:0;}
+      
+      
+      .nav li {float:left;width:300px;text-align:center; background-color:none;border-right:1px solid white;position:relative; line-height:30px;color:red;}
+      
+     
+       
+      .nav li ul{position:absolute; top:30px;left:0;display:none;}
+     
+  .nav li:hover ul  {display:block;}
+      
+      .nav li ul li {float:none; width:150px;text-align:left; border-top:1px solid white;}
+      
+      .nav a {color:white;text-decoration:none;}
+      
+      .nav li:hover{background-color:rgba(0,0,0,0.2);}
+      .content {clear:both;margin-top:200px;}
+    
+    </style>
+  </head>
+  <body>
+  <h1>MY 1ST PAGE</h1>
+  <div class="nav">
+    <ul>
+      <li>
+        <a href="https://www.fb.com/">FACEBOOK</a>
+        <ul>
+          <li><a href="">LOGIN</a>
+          </li>
+            <li><a href="">SIGNUP</a></li>
+     <li><a href="">FORGOTTEN</a>
+          </li>
+        </ul>
+      </li>
+     
+      <li>
+        <a href="https://www.google.co.in/">GOOGLE</a>
+        <ul>
+          
+          <li>
+    <a href="https://accounts.google.com/gmail/" target="_blank">GMAIL</a>  
+          </li>
+          <li>
+    <a href="https://www.google.com/imghp?hl=en&tab=wi&authuser=0&ei=-VUMWPb9MsPVvASTvLmgDg&ved=0EKouCBYoAQ">IMAGES</a>  </li>
+          <li>
+    <a href="https://www.google.com/maps">MAPS</a>  </li>
+          </ul>  
+          </li> 
+      <li>
+    <a href="https://www.youtube.com/">YOUTUBE</a>
+      <ul>
+        <li><a href="">LOGIN</a></li>
+        <li><a href="">SIGNUP</a></li>
+        <li><a href="">FORGOTTEN</a></li>
+        </ul></li>
+    </ul>
+  </div>
+  <h2 class="content">CONTACT ME</h2>
+    <p > PRABHUDATTA ANUP SOURAV
+    <br />CALL ME -9437743342
+    <br />GMAIL-prabhusipun@gmailcom</p>
+</html>
