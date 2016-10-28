@@ -17,7 +17,10 @@
       
       
  .nav li {float:left;width:300px;text-align:center; background-color:white;border-right:1px solid white;position:relative; line-height:30px;}
-      
+  .nav li{ background-image:url("http://www.freewebheaders.com/wordpress/wp-content/gallery/other-backgrounds/pink-lonely-chair-website-header-design.jpg");
+            background-repeat:no-repeat;
+            background-size:cover;
+        background-position:center center;}    
  .nav li ul{position:absolute; top:30px;left:0;display:none;}
      
  .nav li:hover ul  {display:block;}
