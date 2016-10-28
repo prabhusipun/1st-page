@@ -18,7 +18,7 @@
       
  .nav li {float:left;width:200px;text-align:center; background-color:white;border-right:1px solid pink;position:relative; line-height:30px;}
     
- .nav li ul{position:absolute; top:30px;left:0;display:none;}
+ .nav li ul{position:absolute; top:0px;left:0;display:none;}
      
  .nav li:hover ul  {display:block;}
       
