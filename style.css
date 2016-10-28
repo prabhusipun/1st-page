@@ -13,7 +13,7 @@
       /* For IE8 and earlier */
      
 }
- .nav ul {list-style:none;margin:100px;padding:0px;background-color:blue;}
+ .nav ul {list-style:none;margin:100px;padding:0px;}
       
       
  .nav li {float:left;width:200px;text-align:center; background-color:white;border-right:1px solid pink;position:relative; line-height:30px;}
