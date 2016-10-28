@@ -13,12 +13,12 @@
       /* For IE8 and earlier */
      
 }
- .nav ul {list-style:none;margin-bottom:100px;padding:0;}
+ .nav ul {list-style:none;margin-bottom:100px;padding:10px;}
       
       
  .nav li {float:left;width:100px;text-align:center; background-color:white;border-right:1px solid white;position:relative; line-height:30px;}
     
- .nav li ul{position:absolute; top:30px;left:0;display:block;}
+ .nav li ul{position:absolute; top:30px;left:0;display:none;}
      
  .nav li:hover ul  {display:block;}
       
