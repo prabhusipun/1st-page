@@ -18,11 +18,11 @@
       
  .nav li {float:left;width:200px;text-align:center; background-color:white;border-right:1px solid pink;position:relative; line-height:30px;}
     
- .nav li ul{position:absolute;top:0px;left:0;display:none;}
+ .nav li ul{position:absolute;top:30px;left:0;display:none;}
      
  .nav li:hover ul  {display:block;}
       
-      .nav li ul li {float:none; width:100px;text-align:left; border-top:1px solid pink;margin-top:30px;}
+      .nav li ul li {float:none; width:100px;text-align:left; border-top:1px solid pink;}
       
       .nav a {color:blue;text-decoration:none;}
       
