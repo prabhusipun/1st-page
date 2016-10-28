@@ -37,12 +37,14 @@
             background-image:url("http://www.freewebheaders.com/wordpress/wp-content/gallery/other-backgrounds/pink-lonely-chair-website-header-design.jpg");
             background-repeat:no-repeat;
             background-size:cover;
-           background-position:center center;}
+           background-position:center center;
+           opacity:0.6;}
    .nav {
             background-image:url("http://www.freewebheaders.com/wordpress/wp-content/gallery/other-backgrounds/pink-lonely-chair-website-header-design.jpg");
             background-repeat:no-repeat;
             background-size:cover;
            background-position:center center;
+         opacity:0.4;
 }
   
 @media screen and (min-width:950){
