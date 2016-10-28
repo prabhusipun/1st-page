@@ -16,7 +16,7 @@
  .nav ul {list-style:none;margin-bottom:100px;padding:0;}
       
       
- .nav li {float:left;width:300px;text-align:center; background-color:none;border-right:1px solid white;position:relative; line-height:30px;}
+ .nav li {float:left;width:300px;text-align:center; background-color:white;border-right:1px solid white;position:relative; line-height:30px;}
       
  .nav li ul{position:absolute; top:30px;left:0;display:none;}
      
@@ -32,7 +32,7 @@
        .content h2 {clear:both;margin-top:500px;color:rgba(255,0,0,1);text-align:center;}
       .content h4 {clear:both;color:rgba(51,51,0,1);text-align: center;}
       .search {text-align:center;}
-     .head h1{margin-bottom:0px;text-align:center;text-decoration:none;color: grey;}
+     .head h1{margin-bottom:0px;padding-top:20px;text-align:center;text-decoration:none;color: grey;}
      .head {
             background-image:url("http://www.freewebheaders.com/wordpress/wp-content/gallery/other-backgrounds/pink-lonely-chair-website-header-design.jpg");
             background-repeat:no-repeat;
