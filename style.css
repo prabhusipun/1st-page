@@ -17,7 +17,7 @@
      }
       
       
- .nav li {float:left;text-align:center; border:1px solid pink; line-height:30px;position:relative;margin-right:30px;top:100px;
+ .nav li {float:left;text-align:center; border:0px solid pink; line-height:30px;position:relative;margin-right:30px;top:100px;
        background-image: url("https://github.com/prabhusipun/home/blob/gh-pages/navigation%20background.png?raw=true");
             background-repeat:no-repeat;
             background-size:cover;
@@ -31,7 +31,7 @@
      
  .nav li:hover ul  {display:block;}
       
-      .nav li ul li {float:none; width:150px;text-align:center; border: 0px solid pink;padding:10px 30px; margin:1px}
+      .nav li ul li {float:none; width:150px;text-align:center; border: 1px solid pink;padding:10px 30px; margin:1px}
       
       .nav a {color:white;text-decoration:none;padding:0px;z-index:8;}
       
