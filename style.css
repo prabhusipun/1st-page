@@ -8,12 +8,12 @@
     
      background-size:cover;
      background-repeat:no-repeat;
-        
+         opacity:1px;
      
       /* For IE8 and earlier */
      
 }
- .nav ul {list-style:none;margin:0px;padding:0px;
+ .nav ul {list-style:none;margin:0px;padding:0px;z-index:;
      }
       
       
@@ -22,18 +22,17 @@
             background-size:cover;
            background-position:center;
            padding:10px 50px;
-   margin:0 30px;
-       overflow:hidden;
+   margin:0 30px;opacity:0.9;
            }
 .nav li:hover {color:green;background-color:rgba(0,0,0,0.2);}
     
- .nav li ul{top:-40px;left:0;position:absolute;}
+ .nav li ul{top:-30px;left:0;position:absolute;}
      
- .nav li:hover ul  {display:block;background-color:rgba(0,0,0,0.2);}
+ .nav li:hover ul  {display:block;}
       
       .nav li ul li {float:none; width:150px;text-align:center; border: 1px solid pink;padding:10px 30px; margin:1px}
       
-      .nav a {color:white;text-decoration:none;padding:0px;}
+      .nav a {color:white;text-decoration:none;padding:0px;z-index:8;}
       
       
 
@@ -63,7 +62,3 @@
   .head {width:100%}
    
       }
-
-
-   
-      
