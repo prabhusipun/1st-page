@@ -4,7 +4,7 @@
    body {
      
       
-     background-image: url("http://www.electrogaspoint.com/images/backs/508446_2137776big-bg8.jpg"); 
+     background-image: url("https://github.com/prabhusipun/home/blob/gh-pages/background.jpg"); 
     
      background-size:cover;
      background-repeat:no-repeat;
@@ -17,7 +17,8 @@
      }
       
       
- .nav li {float:left;text-align:center; border:1px solid pink; line-height:30px;position:relative;margin-right:30px;top:100px; background-image:url("data:image/jpeg;base64,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");
+ .nav li {float:left;text-align:center; border:1px solid pink; line-height:30px;position:relative;margin-right:30px;top:100px;
+       background-image: url("https://github.com/prabhusipun/home/blob/gh-pages/navigation%20background.png");
             background-repeat:no-repeat;
             background-size:cover;
            background-position:center;
@@ -42,7 +43,7 @@
       .search {text-align:center;}
      .head h1{margin-bottom:0px;padding-top:20px;text-align:center;text-decoration:none;color: grey;}
      .head {
-            background-image:url("http://www.freewebheaders.com/wordpress/wp-content/gallery/other-backgrounds/pink-lonely-chair-website-header-design.jpg");
+            background-image:url("https://github.com/prabhusipun/home/blob/gh-pages/head.jpg");
             background-repeat:no-repeat;
             background-size:cover;
            background-position:center center;
